@@ -66,7 +66,7 @@ I handled the restaurant-level OLS regression, created regression visualizations
 
 ## About this repository
 
-This is a portfolio summary of the completed datathon project, prepared for review. The original analysis has not been changed or rerun.
+This is a portfolio summary of the completed datathon project, published as a portfolio record. The original analysis has not been changed or rerun.
 
 - The final presentation is linked above.
 - [Methods and findings](docs/methods-and-findings.md) distinguish restaurant-level regression from review-level experiments.
